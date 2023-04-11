@@ -1,0 +1,8 @@
+{
+  "apiEndpoint": "https://mathlmeloblog.prismic.io/api/v2",
+  "localSliceSimulatorURL": "http://localhost:3001/slice-simulator",
+  "libraries": [
+    "@/slices"
+  ],
+  "_latest": "0.7.1"
+}
